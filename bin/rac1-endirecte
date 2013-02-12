@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+
+require 'rac1-endirecte'
+Rac1Endirecte.play
