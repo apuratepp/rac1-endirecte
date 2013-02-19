@@ -1,4 +1,3 @@
-
 class Rac1Endirecte
 	STREAM_URI = "http://streaming3.radiocat.net:80/"
 

@@ -9,11 +9,21 @@ Gem::Specification.new do |s|
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Josep Sirvent"]
-  s.date = "2013-02-09"
+  s.date = "2013-02-19"
   s.description = "Escoltar RAC1 en directe des de la terminal"
   s.email = "apuratepp@gmail.com"
+  s.executables = ["rac1-endirecte"]
   s.extra_rdoc_files = [
     "README.md"
+  ]
+  s.files = [
+    "README.md",
+    "Rakefile",
+    "VERSION",
+    "bin/rac1-endirecte",
+    "lib/rac1-endirecte.rb",
+    "pkg/rac1-endirecte-0.1.0.gem",
+    "rac1-endirecte.gemspec"
   ]
   s.homepage = "http://github.com/apuratepp/rac1-endirecte"
   s.require_paths = ["lib"]
