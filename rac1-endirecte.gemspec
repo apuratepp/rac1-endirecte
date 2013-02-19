@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Josep Sirvent"]
-  s.date = "2013-02-18"
+  s.date = "2013-02-19"
   s.description = "Escoltar RAC1 en directe des de la terminal"
   s.email = "apuratepp@gmail.com"
   s.executables = ["rac1-endirecte"]
